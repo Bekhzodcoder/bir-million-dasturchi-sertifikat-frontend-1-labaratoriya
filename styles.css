@@ -1,0 +1,33 @@
+
+*{
+    margin:0;
+    padding:0;
+  }
+  
+  img{
+   height:200px;
+  }
+  
+  #container{
+   border-style:solid;
+    padding:5px;
+  }
+  #interesting-fact{
+   font-style:italic; 
+  }
+  
+  #card{
+    border-style:solid;
+  }
+  
+  span{
+   font-weight:bold; 
+  }
+  
+  #facts li{
+   list-style-type:none; 
+  }
+  #card .animal-info{
+    border-style:solid;
+    padding:5px;
+  }
